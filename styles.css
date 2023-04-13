@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+html, body, canvas {
+    max-height: 100%;
+    max-width: 100%;    
+}
